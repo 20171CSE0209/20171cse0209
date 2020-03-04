@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+ <head>
+<title></title>
+<link rel="stylesheet" type="text/css" href="link.css"/>
+</head>
+<body>
+<div id="header">
+<p align="center" id="name">G.Nikitha</p>
+         <p><span style="float:left" id="email"><a href="mailto:nikithanani912@gmail.com" target="_blank">nikithanani912@gmail.com</a></span><span style="float:right" id="contact">Contact : +91 9381351109</span></p>
+         
+</div> 
+     <div class="right">
+       <br>
+<hr> 
+            <h3>Carreer<i> Objective:</i></h3>
+            <p>I would like to present my skills and work hard for the company that believed in me.</p>
+            <h3>Professional Experience:</h3>
+            <p>Worked as an intern at InnovatorsBay Technologies Pvt Ltd for 2 months.</p>         
+            <h3>Educational Qualifications:</h3></div>
+            <table border='1' cellpadding='5' cellspacing='5'>
+                <tr id="heading">
+                    <td>Qualification</td>
+                    <td>Board</td>
+                    <td>Percentage / CGPA </td>
+                    <td>Year</td>
+                </tr>
+                <tr>
+                    <td>S.S.C</td>
+                    <td>Andhra Pradesh State Board</td>
+                    <td>8.7</td>
+                    <td>2015</td>
+                </tr>
+                <tr>
+                    <td>M.P.C</td>
+                    <td>Andhra Pradesh State Board</td>
+                    <td>96.7%</td>
+                    <td>2017</td>
+                </tr>
+                <tr>
+                    <td>B.tech-CSE(Computer science)  </td>
+                    <td>Presidency University , Bangalore </td>
+                    <td>8.13</td>
+                    <td>not yet finished</td>
+                </tr>
+            </table>
+           <a href="http://www.presidencyuniversity.in"> my university</a></br>
+           
+          <a href="file:///home/6CSE3/20171CSE0203/u.html#timetable"> my timetable </a>
+          
+            <h3>Technical Skills:</h3>
+            <p>
+            <ul>
+                <li>
+                <span id="course-name">Programming Skills:</span> Python, Java, C , C++,basics of database management and learning HTML</li></ul>
+            </p>
+            <h3>Personal Information:</h3>
+            <p>
+            <ul id="ld">
+                <li>
+                A young, determined hard and smart working person. I believe in task based roles and complete ownership of work.
+                <li>
+                <span id="course-name">Languages Known:</span>English, Hindi, Telugu and Kannada</li>
+                <li>
+                <span id="course-name">Hobbies:</span>reading novels and IT related books / magazines, playing Carrom, listening music,self-learning through e-courses.</li> </ul>
+            </p></br>
+          <img  src="/home/6CSE3/Pictures/presidency-infrastructure.jpg" alt="Presidency University"border='3' align="right" height="300" width="300" /></br> 
+     </div>
+     <div id="footer"></div>
+    </body>
+</html>
